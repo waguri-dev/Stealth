@@ -1,0 +1,11 @@
+OCAP :
+
+MapManager -> {}
+
+function MapManager->getMap()
+ -- TODO
+end
+
+FLAG :
+
+HANDLE_EXECUTION_IN_PANEL
